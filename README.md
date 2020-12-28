@@ -17,7 +17,10 @@
 
 ## Data Visualization 
 * Visualized the correlation between the variables with a pairplot 
+![](images/Pairplot.png)
+
 * Created some more histograms to look for correlation
+![](images/Histograms.png)
 
 ## Data Preperation
 * Encoded the target column using the LabelEncoder from sklearn 
